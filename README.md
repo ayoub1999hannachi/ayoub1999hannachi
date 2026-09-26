@@ -2,11 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ayoub%20Hannachi&fontSize=52&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=58&animation=fadeIn" width="100%"/>
 
-# Ayoub Hannachi
-
-### Data Scientist · AI Engineer · Salesforce Developer
-
-**Data Science & Artificial Intelligence Engineering Graduate · 2026**
 
 Building practical AI systems at the intersection of **Machine Learning, Generative AI, software engineering and business applications.**
 
