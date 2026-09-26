@@ -1,118 +1,470 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ayoub%20Hannachi&fontSize=52&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=58&animation=fadeIn" width="100%"/>
+
 # Ayoub Hannachi
 
-**Data Scientist · AI Engineer · Salesforce Developer · MEVN Developer**
+### Data Scientist · AI Engineer · Salesforce Developer
 
-📍 Ariana, Tunisia &nbsp;·&nbsp; 🎓 Data Science & AI Engineering Graduate, Université Ibn Khaldoun (2026) &nbsp;·&nbsp; Open to work
+**Data Science & Artificial Intelligence Engineering Graduate · 2026**
 
-<a href="https://www.linkedin.com/in/ayoub-hannachi-0727931b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ahannachi193@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/ayoub1999hannachi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://www.kaggle.com/ayoubhannachi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+Building practical AI systems at the intersection of **Machine Learning, Generative AI, software engineering and business applications.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/ayoub-hannachi-0727931b0/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:ahannachi193@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/ayoub1999hannachi">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/ayoubhannachi">
+<img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 
 </div>
 
-<br>
+---
 
-## About
+## 👋 About Me
 
-I'm a Data Science & AI engineering graduate (Université Ibn Khaldoun, 2026) who builds and ships machine-learning systems end-to-end — from NLP and computer vision models to the backends and integrations that put them into production.
+I'm a **Data Science & Artificial Intelligence Engineering graduate from Université Ibn Khaldoun**, with experience across **AI, Machine Learning, Salesforce, backend development and web engineering**.
 
-- Designed **Smart Sales Advisor**, an AI assistant embedded in Salesforce Sales Cloud, during my engineering capstone at Talan Tunisia
-- Integrated ECG arrhythmia-classification models into a telemedicine platform at Caredify
-- Comfortable across the full pipeline: data preparation, model training and evaluation, API serving, and production integration
-- Fluent in Arabic, French and English
+My main focus is building intelligent applications that connect models with real-world software systems.
 
-<br>
+I work across the complete AI development lifecycle:
 
-## Current Focus
+```text
+Data
+  ↓
+Preprocessing & Feature Engineering
+  ↓
+Model Development
+  ↓
+Evaluation & Explainability
+  ↓
+API / Backend
+  ↓
+Application Integration
+  ↓
+Automation
+```
 
-- Completed my PFE capstone at Talan Tunisia's Salesforce department — an end-to-end AI sales pipeline covering lead scoring, conversion prediction, sentiment analysis and Agentforce agents
-- Deepening my LLM/GenAI skills: RAG pipelines, prompt engineering, agentic workflows
-- Open to full-time roles as a Data Scientist, ML Engineer, AI Engineer or Data Analyst — also open to Salesforce AI and development
+My recent work includes:
 
-<br>
+* AI-powered sales applications
+* Machine Learning and predictive modeling
+* NLP and sentiment analysis
+* Deep Learning and Computer Vision
+* ECG signal classification
+* Generative AI and LLM applications
+* Salesforce AI and CRM automation
+* REST APIs and backend integration
+* Web and full-stack development
 
-## Tech Stack
+I'm currently open to opportunities as a:
 
-**Languages**
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+**Data Scientist · AI Engineer · ML Engineer · Data Engineer**
 
-**Machine Learning**
-<br>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square)
-![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square)
+I'm also interested in **Salesforce AI and Salesforce Development** roles.
 
-**Deep Learning & Computer Vision**
-<br>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+---
 
-**LLM / GenAI**
-<br>
-![RAG](https://img.shields.io/badge/RAG-6E56CF?style=flat-square)
-![LLaMA / Groq](https://img.shields.io/badge/LLaMA%20%2F%20Groq-F55036?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0071E3?style=flat-square)
+# 🧠 Areas of Expertise
 
-**Salesforce**
-<br>
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat-square)
-![LWC](https://img.shields.io/badge/LWC-00A1E0?style=flat-square)
-![Agentforce](https://img.shields.io/badge/Agentforce-00A1E0?style=flat-square)
+<table>
+<tr>
 
-**Automation & Backend**
-<br>
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<td width="50%" valign="top">
 
-**Data & Tools**
-<br>
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### 🤖 Machine Learning
 
-<br>
+* Classification & regression
+* Feature engineering
+* Model comparison
+* Hyperparameter tuning
+* Model evaluation
+* Explainable AI
+* Predictive modeling
 
-## Featured Projects
+**Tools**
 
-**Smart Sales Advisor (Talanova)** — *Talan Tunisia internship ·* ![Private](https://img.shields.io/badge/repo-private-lightgrey?style=flat-square)
-<br>AI-powered B2B sales assistant embedded in Salesforce: three chained ML models (sentiment analysis, lead conversion, lead scoring), an n8n lead-acquisition pipeline, and an Agentforce agent that drafts quotes and closes deals via DocuSign.
-<br>`Salesforce` `n8n` `Machine Learning` `LLM / RAG`
+`Python` `Scikit-learn` `XGBoost` `LightGBM` `SHAP`
 
-**Caredify — AI-Assisted ECG Telemonitoring** — *Caredify internship ·* ![Private](https://img.shields.io/badge/repo-private-lightgrey?style=flat-square)
-<br>Backend and AI integration for a cardiology telemedicine platform: a CNN → XGBoost cascade for arrhythmia detection, on-device inference in the mobile app, and a 5-level timed alert-escalation protocol.
-<br>`Healthcare` `Signal Processing` `Deep Learning`
+</td>
 
-**Tuninventory — Cloud Inventory SaaS** — *CyberOcean internship ·* ![Private](https://img.shields.io/badge/repo-private-lightgrey?style=flat-square)
-<br>Multi-instance inventory platform connected to an e-commerce system, delivered across three Scrum sprints with a four-developer team.
-<br>`SaaS` `Vue.js` `Nuxt.js` `Node.js` `Socket.IO` `RethinkDB`
+<td width="50%" valign="top">
 
-> Source code for the projects above is confidential (built during company internships) — happy to walk through the implementation on request.
+### 🧠 Deep Learning
 
-<br>
+* Neural networks
+* Computer vision
+* Signal processing
+* Image classification
+* Feature extraction
 
-## Get in Touch
+**Tools**
+
+`TensorFlow` `Keras` `PyTorch` `OpenCV`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ✨ Generative AI
+
+* LLM applications
+* Prompt engineering
+* RAG architectures
+* AI agents
+* AI-assisted workflows
+
+**Tools**
+
+`LLMs` `RAG` `LLaMA` `Groq` `Prompt Engineering`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ AI Applications
+
+* REST APIs
+* Backend services
+* Workflow automation
+* CRM integrations
+* AI-powered business applications
+
+**Tools**
+
+`FastAPI` `n8n` `Salesforce` `Apex` `LWC` `Agentforce`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+## 01 · Smart Sales Advisor
+
+### AI-Powered B2B Sales Assistant
+
+**Talan Tunisia · Engineering Capstone · 2026**
+
+An intelligent sales platform built around **Salesforce Sales Cloud**, supporting the B2B sales lifecycle from lead acquisition and qualification to contract signing.
+
+### AI Components
+
+**Lead Scoring**
+
+Automated classification and prioritization of prospects using lead, behavioral and enrichment data.
+
+**Conversion Prediction**
+
+Machine-learning models estimate lead conversion probability and identify high-potential prospects.
+
+**Sentiment Analysis**
+
+NLP models analyze customer feedback and extract sentiment information.
+
+**Lead Acquisition & Enrichment**
+
+An automated `n8n` workflow processes external lead sources, enriches prospects and synchronizes information with Salesforce.
+
+**Generative AI**
+
+LLM-powered functionality assists sales users with contextual sales tasks.
+
+**Agentforce**
+
+AI-assisted workflows support sales activities and sales-user interactions.
+
+**Contract Workflow**
+
+Integration with DocuSign supports the transition from negotiation to electronic signature.
+
+### Architecture
+
+```text
+External Lead Sources
+        │
+        ▼
+      n8n
+        │
+        ├──────────────► Lead Enrichment
+        │
+        ▼
+   Salesforce CRM
+        │
+        ├──────────────► Lead Scoring
+        │
+        ├──────────────► Conversion Prediction
+        │
+        ├──────────────► Sentiment Analysis
+        │
+        ▼
+   AI / LLM Layer
+        │
+        ▼
+   Agentforce
+        │
+        ├──────────────► Sales Assistance
+        │
+        ▼
+     DocuSign
+        │
+        ▼
+   Contract Signing
+```
+
+### Technologies
+
+`Python` `Pandas` `Scikit-learn` `XGBoost` `NLP`
+
+`FastAPI` `n8n` `Salesforce` `Apex` `LWC` `Agentforce` `Prompt Builder`
+
+> 🔒 Developed during a company internship. Source code is private.
+
+---
+
+## 02 · Caredify
+
+### AI-Assisted ECG Telemonitoring
+
+**Caredify Internship**
+
+An AI-assisted cardiology telemedicine platform integrating ECG analysis with automated monitoring and alert workflows.
+
+### AI Pipeline
+
+```text
+ECG Signal
+    │
+    ▼
+Preprocessing
+    │
+    ▼
+CNN
+    │
+    ▼
+Feature Extraction
+    │
+    ▼
+XGBoost
+    │
+    ▼
+Arrhythmia Classification
+    │
+    ▼
+Monitoring & Alerts
+```
+
+### Key Areas
+
+* ECG signal processing
+* Arrhythmia classification
+* CNN-based feature extraction
+* XGBoost classification
+* AI integration
+* Mobile/on-device inference
+* Automated alert escalation
+
+### Technologies
+
+`Python` `TensorFlow` `Keras` `CNN` `XGBoost`
+
+`Signal Processing` `Machine Learning`
+
+> 🔒 Developed during a company internship. Source code is private.
+
+---
+
+## 03 · Tuninventory
+
+### Cloud Inventory SaaS
+
+**CyberOcean Internship**
+
+A cloud-based inventory management platform connected to an e-commerce ecosystem.
+
+Developed as part of a **four-developer Scrum team** across multiple development sprints.
+
+### Technologies
+
+`Vue.js` `Nuxt.js` `Node.js` `Socket.IO` `RethinkDB`
+
+### Areas
+
+* SaaS application development
+* Inventory management
+* Frontend development
+* Backend integration
+* Real-time communication
+* Scrum methodology
+
+> 🔒 Developed during a company internship. Source code is private.
+
+---
+
+# 💼 Professional Experience
+
+## Talan Tunisia
+
+**AI / Salesforce Engineering Intern · 2026**
+
+Developed **Smart Sales Advisor**, an AI-assisted Salesforce sales platform combining Machine Learning, NLP, Generative AI, workflow automation and CRM integrations.
+
+**Focus:**
+`Machine Learning` · `NLP` · `Salesforce` · `Agentforce` · `n8n` · `AI APIs`
+
+---
+
+## Caredify
+
+**AI / Backend Intern**
+
+Worked on an AI-assisted ECG telemonitoring platform, including arrhythmia classification, signal processing, model integration and automated monitoring workflows.
+
+**Focus:**
+`Deep Learning` · `ECG Analysis` · `CNN` · `XGBoost` · `Backend Integration`
+
+---
+
+## CyberOcean
+
+**Full-Stack Developer Intern — Tuninventory**
+
+Contributed to the development of a cloud inventory management platform connected to an e-commerce ecosystem.
+
+**Focus:**
+`Vue.js` · `Nuxt.js` · `Node.js` · `Socket.IO` · `RethinkDB` · `SaaS`
+
+---
+
+## CyberOcean
+
+**Web Development Intern — Engineering Cycle · Aug 2024 – Sep 2024**
+
+Designed and developed a web platform connecting **clients and service providers**.
+
+* Developed service-management functionality
+* Implemented user profile management
+* Designed responsive web interfaces
+* Applied the **MEVN architecture**
+
+**Stack:**
+`MongoDB` · `Express.js` · `Vue.js` · `Node.js`
+
+---
+
+## Tunisie Telecom
+
+**Software Engineering Intern · Jul 2022 – Aug 2022**
+
+Designed and developed a web application for user authentication and data administration.
+
+* Created UML models for the application
+* Designed and implemented authentication functionality
+* Developed data administration features
+* Built the application using PHP, JavaScript and MySQL
+
+**Stack:**
+`PHP` · `JavaScript` · `MySQL` · `UML`
+
+---
+
+# 🛠️ Technical Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,java,bash" />
+</p>
+
+`SQL`
+
+### Data Science & Machine Learning
+
+`Pandas` · `NumPy` · `Scikit-learn` · `XGBoost` · `LightGBM` · `SHAP`
+
+### Deep Learning & Computer Vision
+
+`TensorFlow` · `Keras` · `PyTorch` · `OpenCV`
+
+### NLP & Generative AI
+
+`NLP` · `LLMs` · `RAG` · `Prompt Engineering` · `LLaMA` · `Groq`
+
+### Salesforce
+
+`Sales Cloud` · `Apex` · `LWC` · `Flow` · `Agentforce` · `Prompt Builder`
+
+### Backend & APIs
+
+`FastAPI` · `Flask` · `Node.js` · `REST APIs`
+
+### Web Development
+
+`JavaScript` · `Vue.js` · `Nuxt.js` · `Express.js`
+
+### Databases
+
+`MongoDB` · `MySQL` · `RethinkDB`
+
+### Automation & Tools
+
+`n8n` · `Git` · `Docker` · `Postman` · `Google Colab` · `Power BI`
+
+---
+
+
+# 📫 Let's Connect
+
+I'm interested in opportunities involving:
+
+**Data Science · Artificial Intelligence · Machine Learning · Data Engineering · Salesforce AI**
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ayoub-hannachi-0727931b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ahannachi193@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/ayoub1999hannachi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://www.kaggle.com/ayoubhannachi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+<a href="mailto:ahannachi193@gmail.com">
+<img src="https://img.shields.io/badge/Email-ahannachi193%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayoub-hannachi-0727931b0/">
+<img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Hannachi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ayoub1999hannachi">
+<img src="https://img.shields.io/badge/GitHub-ayoub1999hannachi-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/ayoubhannachi">
+<img src="https://img.shields.io/badge/Kaggle-ayoubhannachi-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ayoub1999hannachi&style=flat-square" alt="Profile views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building AI systems that turn data into useful applications.
 
 </div>
